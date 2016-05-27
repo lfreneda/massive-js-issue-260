@@ -1,6 +1,6 @@
 # massive-js-issue-260
 
-Replicate massive-js issue #260 - Functions as column when updating [Bug or feature?]
+Replicate massive-js issue [#260](https://github.com/robconery/massive-js/issues/260) - [Functions as column when updating [Bug or feature?]](https://github.com/robconery/massive-js/issues/260)
 
 ## Before running
 
