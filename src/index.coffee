@@ -17,7 +17,7 @@ db.activities.save newActivity, (err, savedActivity) ->
 
     activity = new Activity 'Replicated issue 206 #update'
     activity.id = savedActivity.id
-    db.activities.save activity, (err, updatedActivity) ->
+    db.activities.save activity, (err, updatedActivity) -> # <---- exception here ;_;
       console.log err if err
       console.log updatedActivity
 
