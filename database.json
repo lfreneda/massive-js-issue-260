@@ -1,0 +1,10 @@
+{
+  "development": {
+    "driver": "pg",
+    "user": "postgres",
+    "password": "test",
+    "host": "localhost",
+    "database": "issue260",
+    "schema": "public"
+  }
+}

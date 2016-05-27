@@ -1,0 +1,33 @@
+{
+  "name": "massive-js-issue-260",
+  "version": "1.0.0",
+  "description": "Replicate massive-js issue #260 - Functions as column [Bug or feature?]",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lfreneda/massive-js-issue-260.git"
+  },
+  "keywords": [
+    "massive-js",
+    "issue",
+    "fix",
+    "replicated",
+    "rob<3"
+  ],
+  "author": "Luiz Freneda <lfreneda@gmail.com> (http://www.freneda.com.br)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfreneda/massive-js-issue-260/issues"
+  },
+  "homepage": "https://github.com/lfreneda/massive-js-issue-260#readme",
+  "devDependencies": {
+    "coffee-script": "^1.10.0",
+    "db-migrate": "^0.9.25"
+  },
+  "dependencies": {
+    "massive": "^2.0.9"
+  }
+}

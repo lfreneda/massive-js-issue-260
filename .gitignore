@@ -1,0 +1,7 @@
+.idea/
+node_modules/
+src/*.js
+src/*.map
+migrations/*.js
+migrations/*.map
+
